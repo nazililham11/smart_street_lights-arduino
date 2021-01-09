@@ -26,20 +26,20 @@ Alat ini diciptakan untuk memberikan kontribusi dan solusi pada pemerintah terka
 
 ## Konfigurasi Alat
 **Posisi Jumper**
-![Ilustrasi](Assets/Device%20(8).jpg){:width="300px"}.
+<img src="Assets/Device%20(8).jpg" width="300">
 
 
 **Konfigurasi Jumper**
-![Ilustrasi](Assets/SettingJumper.png){:width="300px"}.
+![Konfigurasi Jumper](Assets/SettingJumper.png){:width="300px"}.
 
 
 ## Foto Alat
-![Ilustrasi](Assets/Device%20(4).jpg){:width="300px"}.
+<img src="Assets/Device%20(4).jpg" width="300">
 
-![Ilustrasi](Assets/Device%20(5).jpg){:width="300px"}.
+<img src="Assets/Device%20(5).jpg" width="300">
 
-![Ilustrasi](Assets/Device%20(15).jpg){:width="300px"}.
+<img src="Assets/Device%20(15).jpg" width="300">
 
-![Ilustrasi](Assets/Device%20(17).jpg){:width="300px"}.
+<img src="Assets/Device%20(17).jpg" width="300">
 
 
