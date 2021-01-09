@@ -40,6 +40,6 @@ Alat ini diciptakan untuk memberikan kontribusi dan solusi pada pemerintah terka
 
 ![Ilustrasi](Assets/Device%20(15).jpg)
 
-![Ilustrasi](Assets/Device (17).jpg)
+![Ilustrasi](Assets/Device%20(17).jpg)
 
 
