@@ -34,12 +34,31 @@ Alat ini diciptakan untuk memberikan kontribusi dan solusi pada pemerintah terka
 
 
 ## Foto Alat
+<img src="Assets/Device%20(1).jpg" width="350">
+<img src="Assets/Device%20(2).jpg" width="350">
+<img src="Assets/Device%20(3).jpg" width="350">
 <img src="Assets/Device%20(4).jpg" width="350">
-
 <img src="Assets/Device%20(5).jpg" width="350">
-
+<img src="Assets/Device%20(6).jpg" width="350">
+<img src="Assets/Device%20(7).jpg" width="350">
+<img src="Assets/Device%20(9).jpg" width="350">
+<img src="Assets/Device%20(10).jpg" width="350">
+<img src="Assets/Device%20(11).jpg" width="350">
+<img src="Assets/Device%20(12).jpg" width="350">
+<img src="Assets/Device%20(13).jpg" width="350">
+<img src="Assets/Device%20(14).jpg" width="350">
 <img src="Assets/Device%20(15).jpg" width="350">
-
 <img src="Assets/Device%20(17).jpg" width="350">
 
 
+## Box Acrylic
+Box Acrylic didesain dalam bentuk 3D ([Uncomplete 3D Design.skp](https://github.com/nazililham11/smart_street_lights-arduino/blob/a32a4c9f92976d29509b6a7dd917555c43372e27/Assets/Uncomplete%203D%20Design.skp)) untuk menentukan desain, sistem penguncian (untuk bongkar/pasang acrylic), tata letak, dan posisi dari hardware.
+
+![Desain 3D](Assets/desain-3d-1.png)
+![Desain 3D](Assets/desain-3d-2.png)
+![Desain 3D](Assets/desain-3d-3.png)
+
+
+ Setelah desain 3D telah dibuat kemudian dibuat versi cutting acrylic ([acrylic.cdr](https://github.com/nazililham11/measurement_tool/raw/master/Assets/acrylic.cdr)) menggunakan aplikasi corel draw. Acrylic yang digunakan yaitu acrylic dengan tebal 2mm berwarna bening dan hitam.
+![Desain 3D](Assets/desain-acrylic.png) 
+Kuning pada desain menunjukan acrylic bening dan merah menunjukan acrylic hitam.
